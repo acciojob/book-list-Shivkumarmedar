@@ -1,11 +1,10 @@
-/*  your css code here. If applicable */
 body{
+	width:90%;
 	margin:auto;
-	width90%
 }
 .title{
-	text-align:center;
 	font-size:50px;
+	text-align:center;
 }
 span{
 	color:blue;
@@ -15,11 +14,11 @@ input{
 	width:100%;
 }
 #submit{
-	padding:16px;
 	background-color:#1877F2;
 	color:white;
+	padding:6px;
 	border-radius:3px;
-	border:0;
+	border:0px;
 }
 button:hover{
 	cursor:pointer;
@@ -27,12 +26,10 @@ button:hover{
 table{
 	margin-top:40px;
 	width:100%;
-	border-collapse:separate;
-	
+	border-collapse:collapse;
 }
 tr{
 	border-bottom:2px solid #B0B0B0;
-	
 }
 tr.border{
 	border-bottom:2px solid black;
