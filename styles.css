@@ -32,10 +32,13 @@ table{
 }
 tr{
 	border-bottom:2px solid #B0B0B0;
-	background-color:#F8F8F8;
+	
 }
 tr.border{
 	border-bottom:2px solid black;
+}
+tr{
+	background-color:#F8F8F8;
 }
 th{
 	background-color:white;
